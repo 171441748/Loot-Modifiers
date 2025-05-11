@@ -16,7 +16,7 @@
 							"Children": [
 								{
 									"Name": "CombatBoots",
-									"Rarity": "Rare"
+									"Rarity": "Common"
 								},
 								{
 									"Name": "MilitaryBoots_JNA",
@@ -52,7 +52,7 @@
 							"Children": [
 								{
 									"Name": "Pilot_Jacket",
-									"Rarity": "Rare"
+									"Rarity": "Common"
 								}
 							]
 						}
@@ -76,7 +76,7 @@
 						},
 						{
 							"Name": "Painkillers_01",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Pressure_Dressing",
@@ -88,7 +88,7 @@
 						},
 						{
 							"Name": "Vitamins_01",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						}
 					]
 				},
@@ -98,7 +98,7 @@
 					"Children": [
 						{
 							"Name": "Batteries",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Bobby_Pin_Pacage",
@@ -124,15 +124,15 @@
 						},
 						{
 							"Name": "Diary",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Duct_Tape",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "EmptyBag",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Glue",
@@ -146,7 +146,7 @@
 						},
 						{
 							"Name": "Lighter",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Lock_Item_Advanced",
@@ -154,7 +154,7 @@
 						},
 						{
 							"Name": "Lock_Item_Basic",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Lock_Items_Medium",
@@ -166,7 +166,7 @@
 						},
 						{
 							"Name": "Lockpick_Item",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Magnifying_Glass1",
@@ -174,7 +174,7 @@
 						},
 						{
 							"Name": "Matches",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Mobile_Phone",
@@ -194,7 +194,7 @@
 						},
 						{
 							"Name": "Pen",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Radio",
@@ -222,7 +222,7 @@
 						},
 						{
 							"Name": "Screwdriver_Small",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Smartphone_Battery",
