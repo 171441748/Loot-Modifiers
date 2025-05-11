@@ -16,15 +16,15 @@
 							"Children": [
 								{
 									"Name": "CombatBoots",
-									"Rarity": "Rare"
+									"Rarity": "Common"
 								},
 								{
 									"Name": "MilitaryBoots_JNA",
-									"Rarity": "VeryRare"
+									"Rarity": "Common"
 								},
 								{
 									"Name": "MilitaryBoots_Peace",
-									"Rarity": "VeryRare"
+									"Rarity": "Common"
 								}
 							]
 						},
@@ -52,7 +52,7 @@
 							"Children": [
 								{
 									"Name": "Pilot_Jacket",
-									"Rarity": "Rare"
+									"Rarity": "Common"
 								}
 							]
 						}
@@ -64,11 +64,11 @@
 					"Children": [
 						{
 							"Name": "ActivatedCharcoal_01",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Emergency_bandage",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Hemostatic_Dressing",
@@ -76,7 +76,7 @@
 						},
 						{
 							"Name": "Painkillers_01",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Pressure_Dressing",
@@ -88,7 +88,7 @@
 						},
 						{
 							"Name": "Vitamins_01",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						}
 					]
 				},
@@ -98,7 +98,7 @@
 					"Children": [
 						{
 							"Name": "Batteries",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Bobby_Pin_Pacage",
@@ -124,15 +124,15 @@
 						},
 						{
 							"Name": "Diary",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Duct_Tape",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "EmptyBag",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Glue",
@@ -146,7 +146,7 @@
 						},
 						{
 							"Name": "Lighter",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Lock_Item_Advanced",
@@ -154,7 +154,7 @@
 						},
 						{
 							"Name": "Lock_Item_Basic",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Lock_Items_Medium",
@@ -166,7 +166,7 @@
 						},
 						{
 							"Name": "Lockpick_Item",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Magnifying_Glass1",
@@ -174,7 +174,7 @@
 						},
 						{
 							"Name": "Matches",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Mobile_Phone",
@@ -194,7 +194,7 @@
 						},
 						{
 							"Name": "Pen",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Radio",
@@ -205,12 +205,12 @@
 							"Rarity": "Uncommon"
 						},
 						{
-							"Name": "Rags",
+							"Name": "Common",
 							"Rarity": "Uncommon"
 						},
 						{
 							"Name": "Rope1",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Safety_pin",
@@ -222,7 +222,7 @@
 						},
 						{
 							"Name": "Screwdriver_Small",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Smartphone_Battery",
@@ -230,7 +230,7 @@
 						},
 						{
 							"Name": "Thread",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						}
 					]
 				},
@@ -244,11 +244,11 @@
 						},
 						{
 							"Name": "Car_Battery",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Car_Battery_Cables",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Electrical",
@@ -256,15 +256,15 @@
 							"Children": [
 								{
 									"Name": "Batteries",
-									"Rarity": "Rare"
+									"Rarity": "Common"
 								},
 								{
 									"Name": "Electrical_Repair_Kit",
-									"Rarity": "Rare"
+									"Rarity": "Common"
 								},
 								{
 									"Name": "Electrician_Tools",
-									"Rarity": "Rare"
+									"Rarity": "Common"
 								},
 								{
 									"Name": "Wire",
@@ -278,7 +278,7 @@
 						},
 						{
 							"Name": "Smartphone_Battery",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						},
 						{
 							"Name": "Tool_Box",
@@ -286,7 +286,7 @@
 						},
 						{
 							"Name": "Tool_Box_Small",
-							"Rarity": "Rare"
+							"Rarity": "Common"
 						}
 					]
 				}
